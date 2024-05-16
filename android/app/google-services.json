@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977299392208",
+    "project_id": "e-commerce-cfd42",
+    "storage_bucket": "e-commerce-cfd42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977299392208:android:2f1167d8653f5343d380d5",
+        "android_client_info": {
+          "package_name": "com.crowndone.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNBremDW8CvwQ0vy46-8qnxHYj3c0zb3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
